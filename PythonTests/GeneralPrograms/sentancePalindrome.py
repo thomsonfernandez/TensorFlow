@@ -40,4 +40,3 @@ if sentencePalindrome(s):
 else:
     print("Sentence is not palindrome.")
 
-# This code is contributed by Sachin Bisht
